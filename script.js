@@ -27,52 +27,6 @@ function getNumber(num) {
 }
 
 
-
-
-
-
-// let dot = document.querySelector(".addDecimal")
-  // function getDecimal(dot) {
-
-
-    
-  // const getDecimal = (dot) => {
-  //   const dot = document.querySelector(".addDecimal");
-  //   display.value = display.value += dot ;
-  // };
-    
-  
-  // const dot = document.querySelector("#addDecimal");
-
-  // const getDecimal = (dot) => {
-  //     // const dot = document.querySelector(".addDecimal");
-
-  //     if (dot === "true"){
-  //       firstNumber || secondNumber || firstNumber && secondNumber === dot;
-  //       display.value = dot + firstNumber || firstNumber + dot;
-
-  //       display.value = dot + secondNumber || secondNumber + dot;
-
-
-  //       // firstNumber || secondNumber === "." + num || firstNumber || secondNumber === num + "." ;
-  //       // return
-        
-  //     }else dot === "false";
-  //   }
-
-      // firstNumber && secondNumber !== dot;
-
-
-         
-
-    //   display.value = display.value += dot ;
-    //  };
-
-
-
-
-
-
 function getOperator(operatorBtn) {
   stage = 2
   operation = operatorBtn 
