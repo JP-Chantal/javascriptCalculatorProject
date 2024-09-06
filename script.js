@@ -4,11 +4,8 @@ let stage = 0
 let operation
 let calculate = 0
 
-
 let firstNumArray = []
 let secondNumArray = []
-
-
 
 let display = document.getElementById("display")
 
@@ -78,6 +75,7 @@ const calculateDisplay = () => {
   calculate = firstNumber % secondNumber
   display.value = calculate
 }
+
 
 firstNumber = null
   secondNumber = null
